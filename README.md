@@ -71,11 +71,6 @@ open -a Xcode SpreeiOS.xcworkspace
 * and many more...
 
 
-# License
-
-The project is open sourced under MIT License.
-
-
 # Found an issue
 
 Please create an issue in Github or submit a Pull Request.
